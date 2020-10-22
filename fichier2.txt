@@ -1,0 +1,1 @@
+Une ligne dans fichier2.txt
