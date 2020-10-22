@@ -1,0 +1,5 @@
+# Exclure le répertoire work/
+work/
+
+# Exclure tous les fichiers .ini
+*.ini
