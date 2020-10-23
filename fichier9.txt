@@ -1,1 +1,2 @@
 Ligne ajoutée par moi
+Ligne écrite par l'autre développeur
